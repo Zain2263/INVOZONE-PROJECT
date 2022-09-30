@@ -1,0 +1,31 @@
+.VendorInfo {
+  width: 80%;
+  height: 40px;
+  margin-bottom: 2px;
+}
+tr {
+  height: 50px;
+}
+.cell-input {
+  height: 50px;
+  text-align: center;
+}
+.label {
+  margin: 13px;
+}
+.info-container {
+  display: flex;
+  flex-direction: column;
+}
+.getAssetById {
+  display: flex;
+}
+.btn {
+  cursor: pointer;
+  width: "140px";
+  height: "50px";
+}
+h1
+{
+  color: black;
+}
